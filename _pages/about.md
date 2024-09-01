@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Pengfei Lyu's Homepage"
+title: "Pengfei Lyu | Duke University"
+excerpt: About me
 author_profile: true
 redirect_from: 
   - /about/
