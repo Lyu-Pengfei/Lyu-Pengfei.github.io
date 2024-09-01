@@ -16,3 +16,34 @@ My research interests encompass high-dimensional data analysis and machine learn
 - Machine Learning: diffusion models, transformer and synthetic data.
 
 # Awards and Honors
+- Best Student Poster Award, Georgia Chapter, American Statistical Association, 2024
+- Travel Award, Summer Research Conference, Southern Regional Council on Statistics, 2023
+- 2nd Tier Outstanding Research Presentation Award, Graduate Student Research Conference, Graduate Student Network, National Institute of Statistical Science, 2023
+- Yongyuan and Anna Li Presentation Award for the best graduate student presentations, Department of Statistics, Florida State University, 2023
+- 1st Place of Student Competition Award, Florida Chapter, American Statistical Association, 2023
+- Best First-Year Student in Theoretical Statistics, Department of Statistics, Florida State University, 2020
+
+# Publications and Preprints
+- Bell, T.N., Kusi-Appiah, A.E., Tocci, V., \textbf{Lyu, P.}, Zhu, L., Zhu, F., Van Winkle, D., Cao, H., Singh, M.S. and Lenhert, S.. (2024). [Scalable lipid droplet microarray fabrication, validation, and screening.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304736)
+- Lyu, P., Li, Y., Wen, X., and Cao, H. (2023). [JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.](https://academic.oup.com/bioinformatics/article/39/6/btad366/7190368)
+- Lyu, P., Zhang, X., and Cao, H. (2024+). Replicability analysis of high dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\]
+- Wang, P., \textbf{Lyu, P.}, Peddada, S., and Cao, H. (2024+). A powerful methodology for analyzing correlated high dimensional data using factor models.
+- \textbf{Lyu, P.}, Bell, T., Lenhert S., and Cao, H. (2024+). Sample size calculation in cell culture - how many cells should I count?
+
+# Presentations
+- High dimensional replicable inference of multiple studies account for dependence.
+  - 2024 ICSA Applied Statistics Symposium, Nashville, TN, June 2024. (poster)
+  - The 9th Workshop on Biostatistics and Bioinformatics, Atlanta, GA, May 2024
+  - Theory and Foundations of Statistics in the Era of Big Data, Tallahassee, FL, April 2024
+  - Florida Chapter, American Statistical Association, Tallahassee, FL, March 2024
+- JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.
+  - Summer Research Conference, Southern Regional Council on Statistics, Waco, TX, June 2023
+  - Graduate Student Network, National Institute of Statistical Science, Zoom Meeting, May 2023
+  - Student Research Competition, Department of Statistics, Florida State University, Tallahassee, FL, April 2023
+  - Florida Chapter, American Statistical Association, Gainesville, FL, March 2023
+
+# Teaching
+- Spring & Summer 2022: STA 2122 Introduction to Applied Statistics
+
+# Service
+- Reviewer: British Medical Journal, Thorax
