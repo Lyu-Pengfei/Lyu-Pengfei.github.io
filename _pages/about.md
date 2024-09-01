@@ -12,8 +12,9 @@ Welcome to my homepage! I am currently a postdoctoral researcher in the [Departm
 
 Before joining Duke, I earned my Ph.D. in Statistics in August 2024 from [Florida State University](https://www.fsu.edu/), where I was fortunate to be supervised by Prof. [Hongyuan Cao](https://ani.stat.fsu.edu/~hycao/). 
 
-I obtained my Bachelor's degree in Statistics in 2019 from [University of Science and Technology of China](https://en.ustc.edu.cn/)
+I obtained my Bachelor's degree in Statistics in 2019 from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
+Please feel free to email me at pengfei.lyu@duke.edu
 
 # Research Interests
 My research interests encompass high-dimensional data analysis and machine learning.
