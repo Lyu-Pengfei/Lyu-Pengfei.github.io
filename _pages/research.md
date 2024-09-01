@@ -8,7 +8,7 @@ author_profile: true
 
 ## Research Interests
 My research interests encompass high-dimensional data analysis and machine learning.
-- High-dimensional data analysis: multiple testing, replicable inference, dimension reduction, with applications in genotype data.
+- High dimensional data analysis: multiple testing, replicable inference and dimension reduction, with applications in genotype data.
 - Machine Learning: diffusion models, transformer and synthetic data.
 
 ## Publications and Preprints
