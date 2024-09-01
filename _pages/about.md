@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Pengfei Lyu's Homepage"
 excerpt: "Pengfei Lyu"
 author_profile: true
 redirect_from: 
