@@ -13,6 +13,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Honors"
+    url: /honors/
+
+  - title: "Service"
+    url: /service/
     
   #- title: "Portfolio"
   #  url: /portfolio/
