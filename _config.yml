@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : # "en-US"
-title                    : "Pengfei Lyu | Duke University"
+title                    : "Pengfei Lyu (吕鹏飞)"
 title_separator          : # "-"
 name                     : &name "Pengfei Lyu"
 description              : &description "personal description"
