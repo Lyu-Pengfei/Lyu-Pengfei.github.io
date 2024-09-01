@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Presentations"
+permalink: /presentations/
+author_profile: true
+---
+
 - High dimensional replicable inference of multiple studies account for dependence.
   - 2024 ICSA Applied Statistics Symposium, Nashville, TN, June 2024. (poster)
   - The 9th Workshop on Biostatistics and Bioinformatics, Atlanta, GA, May 2024
