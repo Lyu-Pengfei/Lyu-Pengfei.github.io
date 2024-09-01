@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am currently a postdoctoral researcher in the [Department of Biostatistics & Bioinformatics](https://biostat.duke.edu/) at [Duke University](https://duke.edu/), working under the guidance of Prof. [Anru Zhang](https://anruzhang.github.io/) and Prof. [Pixu Shi](https://github.com/Lyu-Pengfei). 
+I am currently a postdoctoral researcher in the [Department of Biostatistics & Bioinformatics](https://biostat.duke.edu/) at [Duke University](https://duke.edu/), working under the guidance of Prof. [Anru Zhang](https://anruzhang.github.io/) and Prof. [Pixu Shi](https://pixushi.github.io/). 
 
 Before joining Duke, I earned my Ph.D. in Statistics in August 2024 from [Florida State University](https://www.fsu.edu/), where I was fortunate to be supervised by Prof. [Hongyuan Cao](https://ani.stat.fsu.edu/~hycao/). 
 
