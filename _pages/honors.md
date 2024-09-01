@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Honors"
+permalink: /honors/
+author_profile: true
+---
+
 - Best Student Poster Award, Georgia Chapter, American Statistical Association, 2024
 - Travel Award, Summer Research Conference, Southern Regional Council on Statistics, 2023
 - 2nd Tier Outstanding Research Presentation Award, Graduate Student Research Conference, Graduate Student Network, National Institute of Statistical Science, 2023
