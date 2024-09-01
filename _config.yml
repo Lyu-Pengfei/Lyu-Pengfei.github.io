@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "he/him/his"  
   bio              : "Postdoctoral researcher"
   location         : # "Earth"
-  employer         : "Duke University"
+  employer         : # "Duke University"
   url              : # URL
-  email            : # "pengfei.lyu@duke.edu" 
+  email            : # [pengfei.lyu@duke.edu](pengfei.lyu@duke.edu) 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -40,7 +40,7 @@ author:
   # Social media
   facebook         : # Username
   instagram        : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/pengfei-lyu-954a401b6/"
   steam            : # Username
   telegram         : # URL
   twitter          : # Username for X / Twitter
