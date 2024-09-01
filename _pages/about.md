@@ -18,6 +18,7 @@ I obtained my Bachelor's degree in Statistics in 2019 from [University of Scienc
 
 Please feel free to email me at [pengfei.lyu@duke.edu](pengfei.lyu@duke.edu).
 
+<!-- 
 # Research Interests
 My research interests encompass high-dimensional data analysis and machine learning.
 - High-dimensional data analysis: multiple testing, replicable inference, dimension reduction, with applications in genotype data.
@@ -55,3 +56,4 @@ My research interests encompass high-dimensional data analysis and machine learn
 
 # Service
 - Reviewer: British Medical Journal, Thorax
+-->
