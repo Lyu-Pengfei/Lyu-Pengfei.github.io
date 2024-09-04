@@ -13,7 +13,7 @@ My research interests encompass high-dimensional data analysis and machine learn
 
 ## Publications and Preprints
 - Bell, T.N., Kusi-Appiah, A.E., Tocci, V., **Lyu. P**, Zhu, L., Zhu, F., Van Winkle, D., Cao, H., Singh, M.S. and Lenhert, S.. (2024). [Scalable lipid droplet microarray fabrication, validation, and screening.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304736)
-  *Plos one*, 19.7
+  *Plos one*, 19(7)
 - **Lyu, P**., Li, Y., Wen, X., and Cao, H. (2023). [JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.](https://academic.oup.com/bioinformatics/article/39/6/btad366/7190368)
   *Bioinformatics*, 39(6)
 - **Lyu, P**., Zhang, X., and Cao, H. (2024+). Replicability analysis of high dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\]
