@@ -10,7 +10,7 @@
 locale                   : # "en-US"
 title                    : "Pengfei Lyu"
 title_separator          : "-"
-name                     : &name "Pengfei Lyu"
+name                     : &name "Pengfei Lyu (吕鹏飞)"
 description              : &description "personal description"
 url                      : https://Lyu-Pengfei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
