@@ -10,7 +10,7 @@
 locale                   : # "en-US"
 title                    : "Pengfei Lyu"
 title_separator          : "-"
-name                     : &name "Pengfei Lyu (吕鹏飞)"
+name                     : &name "Pengfei Lyu"
 description              : &description "personal description"
 url                      : https://Lyu-Pengfei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Lyu-Pengfei.github.io"
 author:
   # Biographic information
   avatar           : "PengfeiLyuPhoto.png"
-  name             : "Pengfei Lyu"
+  name             : "Pengfei Lyu (吕鹏飞)"
   pronouns         : # example: "he/him/his"  
   bio              : "Postdoctoral researcher"
   location         : # "Earth"
