@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher in the [Department of Biostatistics & B
 <!--
 and Prof. [Pixu Shi](https://pixushi.github.io/). 
 -->
-Before joining Duke, I earned my Ph.D. degree in Statistics in August 2024 from [Florida State University](https://www.fsu.edu/), where I was fortunate to be supervised by Prof. [Hongyuan Cao](https://hongyuan-cao.github.io/). I also appreciate the guidance and help from Prof. [Xianyanng Zhang](https://zhangxiany-tamu.github.io/).
+Before joining Duke, I earned my Ph.D. degree in Statistics in August 2024 from [Florida State University](https://www.fsu.edu/), where I was fortunate to be supervised by Prof. [Hongyuan Cao](https://hongyuan-cao.github.io/). I also appreciate the guidance and help from Prof. [Xianyang Zhang](https://zhangxiany-tamu.github.io/).
 
 I obtained my Bachelor's degree in Statistics in 2019 from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
