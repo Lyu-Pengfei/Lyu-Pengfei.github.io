@@ -16,6 +16,6 @@ My research interests encompass high-dimensional data analysis and machine learn
   *Plos one*, 19(7).
 - **Lyu, P**., Li, Y., Wen, X., and Cao, H. (2023). [JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.](https://academic.oup.com/bioinformatics/article/39/6/btad366/7190368)\
   *Bioinformatics*, 39(6).
-- **Lyu, P**., Zhang, X., and Cao, H. (2024+). Replicability analysis of high dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\].
-- Wang, P., **Lyu. P**, Peddada, S., and Cao, H. (2024+). A powerful methodology for analyzing correlated high dimensional data using factor models.
-- **Lyu. P**, Bell, T., Lenhert S., and Cao, H. (2024+). Sample size calculation in cell culture - how many cells should I count?
+- **Lyu, P**., Zhang, X., and Cao, H. (2025+). Replicability analysis of high dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\].
+- Wang, P., **Lyu. P**, Peddada, S., and Cao, H. (2025+). A powerful methodology for analyzing correlated high dimensional data using factor models.
+- **Lyu. P**, Bell, T., Lenhert S., and Cao, H. (2025+). Sample size calculation in cell culture - how many cells should I count?
