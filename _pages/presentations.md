@@ -4,7 +4,8 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-
+- Bias-correction for imbalanced classification with synthetic data.
+  - Ed Hammond Symposium, Durham, NC, January 2025.
 - High dimensional replicable inference of multiple studies account for dependence.
   - Conference and Festschrift In Honor Of Michael Kosorok, Chapel Hill, NC, November 2024.
   - 2024 ICSA Applied Statistics Symposium, Nashville, TN, June 2024.
