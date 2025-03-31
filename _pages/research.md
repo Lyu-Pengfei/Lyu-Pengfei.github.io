@@ -12,7 +12,7 @@ My research interests encompass high-dimensional data analysis and machine learn
 - Machine Learning: diffusion models, transformer and synthetic data.
 
 ## Publications and Preprints
-- Wang, P., **Lyu. P**, Peddada, S., and Cao, H. (2025). [Statistical analysis of correlated expression data from high throughput experiments.] (https://doi.org/10.1093/genetics/iyaf060)\
+- Wang, P., **Lyu. P**, Peddada, S., and Cao, H. (2025). [Statistical analysis of correlated expression data from high throughput experiments.](https://doi.org/10.1093/genetics/iyaf060)\
   *Genetics*, iyaf060.
 - Bell, T.N., Kusi-Appiah, A.E., Tocci, V., **Lyu. P**, Zhu, L., Zhu, F., Van Winkle, D., Cao, H., Singh, M.S. and Lenhert, S. (2024). [Scalable lipid droplet microarray fabrication, validation, and screening.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304736)\
   *Plos one*, 19(7).
