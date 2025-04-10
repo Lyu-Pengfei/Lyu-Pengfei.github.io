@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 - Bias-correction for imbalanced classification with synthetic data.
+  - Duke Industry Statistics Symposium, ``Driving Clinical Research Forward with Advanced Statistics and Data Innovations: Biostatistics in the Age of AI/ML'', Durham, NC, April 2025.  
   - Ed Hammond Symposium, Durham, NC, January 2025.
 - High dimensional replicable inference of multiple studies account for dependence.
   - Conference and Festschrift In Honor Of Michael Kosorok, Chapel Hill, NC, November 2024.
