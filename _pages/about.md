@@ -18,7 +18,7 @@ Before joining Duke, I earned my Ph.D. degree in Statistics in August 2024 from 
 
 I obtained my Bachelor's degree in Statistics in 2019 from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
-Please feel free to email me at [pengfei.lyu@duke.edu](pengfei.lyu@duke.edu).
+Please feel free to email me at [pengfei.lyu@duke.edu](mailto:pengfei.lyu@duke.edu).
 
 <!-- 
 # Research Interests
