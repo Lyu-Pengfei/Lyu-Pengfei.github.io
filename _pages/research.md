@@ -18,8 +18,8 @@ My research interests encompass high-dimensional data analysis and machine learn
   *Plos one*, 19(7).
 - **Lyu, P.**, Li, Y., Wen, X., and Cao, H. (2023). [JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.](https://academic.oup.com/bioinformatics/article/39/6/btad366/7190368)\
   *Bioinformatics*, 39(6).
-- **Lyu, P.**, Ma, Z., Zhang, L., and Zhang, A. (2025+). Bias-Corrected Data Synthesis for Imbalanced Learning.
-- **Lyu, P.**, Ma, Z., and Zhang, A. (2025+). Inference of diffusion models with imbalanced samples.
-- **Lyu, P.**, Zhang, X., and Cao, H. (2025+). Replicability analysis of high-dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\].
-- Wang, W., Chen, M., Luo, Y., and **Lyu, P.** (2025+). SFP-GNNformer: Global port fuel market dynamics and price volatility analysis based on spatiotemporal feature fusion.
+- **Lyu, P.**, Ma, Z., Zhang, L., and Zhang, A. (2025). Bias-Corrected Data Synthesis for Imbalanced Learning. \[[arXiv](https://arxiv.org/abs/2510.26046)\].
+- **Lyu, P.**, Zhang, X., and Cao, H. (2024). Replicability analysis of high-dimensional data accounting for dependence. \[[arXiv](https://arxiv.org/abs/2404.05808)\].
+- Wang, W., Chen, M., Luo, Y., and **Lyu, P.** (2025). SFP-GNNformer: Global port fuel market dynamics and price volatility analysis based on spatiotemporal feature fusion.
+- Ma, Z., **Lyu, P.**, and Zhang, A. (2025+). Inference of diffusion models with imbalanced samples.
 - **Lyu. P.**, Bell, T., Lenhert, S., and Cao, H. (2025+). Sample size calculation in cell culture - how many cells should I count?
