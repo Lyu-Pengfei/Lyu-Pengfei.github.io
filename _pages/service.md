@@ -5,6 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 - Reviewer:
-  - British Medical Journal, Thorax, 2024
-  - Journal of the American Statistical Association, 2024
+  - Duke National Health Research Conference, 2025
+  - Journal of the American Statistical Association, 2024 - 2025
   - Advances in Statistical Analysis, 2025
+  - British Medical Journal, Thorax, 2024
