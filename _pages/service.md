@@ -5,6 +5,8 @@ permalink: /service/
 author_profile: true
 ---
 - Reviewer:
+  - NAR Genomics and Bioinformatics, 2026
+  - Bioinformatics, 2026
   - Duke National Health Research Conference, 2025
   - Journal of the American Statistical Association, 2024 - 2025
   - Advances in Statistical Analysis, 2025
