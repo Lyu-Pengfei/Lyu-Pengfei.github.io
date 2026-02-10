@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 - Bias-correction for imbalanced classification with synthetic data.
+  - Advances in Generative AI Conference, Duke University, Durham, NC, February 2026
   - Health Data Science Poster Showcase, Duke University, Durham, NC, December 2025  
   - Duke Industry Statistics Symposium, ``Driving Clinical Research Forward with Advanced Statistics and Data Innovations: Biostatistics in the Age of AI/ML'', Durham, NC, April 2025.  
   - Ed Hammond Symposium, Durham, NC, January 2025.
