@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 - Bias-correction for imbalanced classification with synthetic data.
+  - NISS (National Institute of Statistical Sciences) Virtual New Researchers Conference 2026, Online Meeting, June 2026  
   - Advances in Generative AI Conference, Duke University, Durham, NC, February 2026
   - Health Data Science Poster Showcase, Duke University, Durham, NC, December 2025  
   - Duke Industry Statistics Symposium, ``Driving Clinical Research Forward with Advanced Statistics and Data Innovations: Biostatistics in the Age of AI/ML'', Durham, NC, April 2025.  
@@ -17,6 +18,6 @@ author_profile: true
   - Florida Chapter, American Statistical Association, Tallahassee, FL, March 2024
 - JUMP: replicability analysis of high-throughput experiments with applications to spatial transcriptomic studies.
   - Summer Research Conference, Southern Regional Council on Statistics, Waco, TX, June 2023
-  - Graduate Student Network, National Institute of Statistical Science, Zoom Meeting, May 2023
+  - Graduate Student Network, National Institute of Statistical Science, Online Meeting, May 2023
   - Student Research Competition, Department of Statistics, Florida State University, Tallahassee, FL, April 2023
   - Florida Chapter, American Statistical Association, Gainesville, FL, March 2023
