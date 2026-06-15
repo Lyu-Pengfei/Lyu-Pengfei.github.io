@@ -5,6 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 - Reviewer:
+  - 2026 WNAR Student Paper Competition Committee
   - NAR Genomics and Bioinformatics, 2026
   - Bioinformatics, 2026
   - Duke National Health Research Conference, 2025
